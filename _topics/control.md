@@ -5,7 +5,7 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "Optimization-based multi-contact optimal whole-body control"
+title: "Optimization-based Multi-Contact Optimal Whole-body Control"
 
 excerpt: "
 Exploring two decades of advancements in whole-body control of humanoid robots, we will revisit the disparity between approximation methods and holistic controls, while assessing recent breakthroughs in near real-time optimization on legged robots, seeking solutions for future computational challenges.

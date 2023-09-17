@@ -5,7 +5,7 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "Transferring human motion skills to humanoid robots"
+title: "Transferring Human Motion Skills to Humanoid Robots"
 
 excerpt: "
 

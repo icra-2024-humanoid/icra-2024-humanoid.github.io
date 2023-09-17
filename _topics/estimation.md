@@ -5,7 +5,7 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "State estimation and evaluation for humans and humanoid robots"
+title: "Human State Estimation: Assessment and Exploitation for Humanoid Robots"
 
 excerpt: "
 Leveraging human musculoskeletal analysis and the emulation of human movement through humanoid robots, we will revisit various perspectives for motion optimization in humanoid systems and highlight applications.

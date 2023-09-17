@@ -5,7 +5,7 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "Emerging data-driven approaches"
+title: "Leveraging Data-Driven Methods for Versatile Humanoid Robot Motion Generation"
 
 excerpt: "
 Data-driven approaches have become increasingly relevant in robotic control as they have achieved unprecedented success in various applications, such as sliding contact control, agile and dynamic motion skills, and locomotion in the wild.

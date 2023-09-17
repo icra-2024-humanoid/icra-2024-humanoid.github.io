@@ -5,7 +5,7 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "Fostering future industrial applications and novel mechanical design"
+title: "Fostering Future Industrial Applications and Novel Mechanical Design"
 
 excerpt: "
 Exploring the novel hardware redesign, our speakers will delve into the challenges and future of humanoid robots that closely mimic human capabilities and design.
