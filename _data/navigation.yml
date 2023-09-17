@@ -1,0 +1,32 @@
+# main links
+main:
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
+      #- title: "Sitemap"
+    #url: /sitemap/
+  - title: "Topics"
+    url: /topics/
+  - title: "Speakers"
+    url: /speaker-archive/
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Acknowledgements"
+    url: /acknowledgements/
+  - title: "Program"
+    url: /program/
+  - title: "Call for Contributions"
+    url: https://forms.gle/SjgCrnUQaPBS4Rh86
+
+
+# Sidebar options
+
+sidebar:
+  - title: "Speakers"
+    url: /year-archive/
+  - title: "Call for Contributions"
+    url: https://forms.gle/SjgCrnUQaPBS4Rh86
+  - title: "Archive"
+    url: /year-archive/
+
+
+
