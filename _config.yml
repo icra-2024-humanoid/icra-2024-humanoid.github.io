@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" #"default" # "aqua", "air", "aqua", "contrast",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reactive and Predictive" 
-title_separator          : "-"
-subtitle                 : Humanoid Whole-body Control
+title                    : "Humanoid Whole-body Control" 
+title_separator          : ""
+subtitle                 : From human motion understanding to humanoid locomotion
 name                     : #"High Dynamic Motion Generation of Under-Actuated Robots"
 description              : "Workshop@ICRA2024"
 url                      : https://icra-2024-humanoid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "May 13th, 2024"
+  name             : "May 17th, 2024"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Workshop@ICRA-2024"
   location         : "Yokohama, Japan"
