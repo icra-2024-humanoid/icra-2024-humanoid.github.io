@@ -12,7 +12,7 @@ We would like to thank the Financial support from the IEEE-RAS Technical Committ
 
 * Model-Based Optimization for Robotics
 
-for the posters submitted and presented at the workshop during IROS 2023.
+for the posters submitted and presented at the workshop during ICRA 2024.
 
 #### Endorsement: 
 We would like to thank the endorsement from the IEEE-RAS Technical Committees on:
