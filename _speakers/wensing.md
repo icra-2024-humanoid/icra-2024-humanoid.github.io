@@ -10,7 +10,7 @@ sidebar:
     image: /docs/assets/images/speakers/patrick.jpg 
     image_alt: "logo"
     text: "
-    <h4>PhD, Assistant Professor</h4> 
+    <h4>PhD, Associate Professor</h4> 
     <br/>
     <br/>Robotics, Optimization, and Assistive Mobility (ROAM) Lab <br/>
     [Department of Aerospace and Mechanical Engineering](https://ame.nd.edu/) <br/>
