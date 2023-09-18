@@ -6,10 +6,10 @@ main:
     #url: /sitemap/
   - title: "Topics"
     url: /topics/
-  - title: "Speakers"
+  - title: "People"
     url: /speaker-archive/
-  - title: "Organizers"
-    url: /organizers/
+ #- title: "Organizers"
+ #  url: /organizers/
   - title: "Acknowledgments"
     url: /acknowledgments/
   - title: "Program"
