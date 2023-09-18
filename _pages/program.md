@@ -12,21 +12,21 @@ permalink: /program/
 | :-------------------------------------------------------------------------:|
 |  |**Session One:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 09:00 - 09:30 | [Tomomichi Sugihara](/zhidao)  | Omron Corporation|  Model predictive control based on 3D ZMP manipulation                                                             |
-| 09:30 - 10:00    | [Sven Behnke](/behnke/) <br/> [Grzegorz Ficht](/ficht/)| University of Bonn | Direct Centroidal Control for Balanced Humanoid Locomotion |
+| 09:00 - 09:30 | [Abderrahmane Kheddar](/kheddar/)  | CNRS-AIST JRL, CNRS-UM LIRMM|                                                               |
+| 09:30 - 10:00    | [Majid Khadiv](/khadiv/)| Technical University of Munich| Predictive control and learning for whole-body motion generation |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 |  **10:00 - 10:30** |  |**Coffee Break & Poster Session**|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
-| 10:30 - 11:00    |  [Carlos Mastalli](/carlos/) |   Heriot-Watt University| Agile and perceptive locomotion in legged robots: a top-down approach                                                             |
-| 11:00 - 11:30    | [Bike Zhang](/bike/)| UC Berkely|    Learning Humanoid Locomotion with Transformers|
-| 11:30 - 12:00    |  [Luis Sentis](/sentis/)|  University of Texas at Austin |  From Model-Based Whole-Body Control to Humanoid Legged Manipulation using Machine Learning|
+| 10:30 - 11:00    |  [Yan Gu](/yan/) |   Purdue University| Modeling and Control of Humanoid Robot Locomotion in Non-inertial Environment                                                             |
+| 11:00 - 11:30    | [Ko Ayusawa](/ayusawa/)| AIST|    Humanoid motion optimization for understanding and reproducing human movements|
+| 11:30 - 12:00    |  [Wataru Takano](/takano/)|  Osaka University|  |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | **12:00-12:30**  |           | **Summary & Panel Discussion** |                                                         |
 | **12:30-13:30**  |           | **Lunch**          |  |                                                         |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:30- 14:00    | [Maurice Fallon](/fallon/) | Oxford Robotics Institute | Sensor Fusion based Legged Robot Visual Perception, Navigation and State Estimation |
-| 14:00 - 14:30    | [Alphonsus Antwi Adu-Bredu](/aab/)    |  University of Michigan     |  Exploring Kinodynamic Fabrics for Fast, Reactive Whole-Body Control of Underactuated Humanoid Robots |
-| 14:30 - 15:00    | [Yan Gu](/yan/)     |Purdue University | State Estimation and Control of Underactuated Humanoid Walking on a Nonstationary Surface|
+| 14:00 - 14:30    | [Patrick Wensing](/wensing/)    |  University of Norte Dame|  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots |
+| 14:30 - 15:00    | [Annan Tang](/annan/)     |The University of Tokyo| HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation|
 | **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
 | 16:00 - 16:30    | [Johannes Englsberger](/johannes/)| Centroidal Angular Momentum Approximation and Control for humanoid locomotion| 
 | 16:30 - 17:00    | [Serena Ivaldi](/ivaldi/)| Inria| Anticipatory Control: Using Prediction of Intended Movement for Control  |
