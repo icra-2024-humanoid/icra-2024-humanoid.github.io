@@ -26,9 +26,9 @@ permalink: /program/
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:30- 14:00    | [Maurice Fallon](/fallon/) | Oxford Robotics Institute | Sensor Fusion based Legged Robot Visual Perception, Navigation and State Estimation |
 | 14:00 - 14:30    | [Patrick Wensing](/wensing/)    |  University of Norte Dame|  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots |
-| 14:30 - 15:00    | [Annan Tang](/annan/)     |The University of Tokyo| HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation|
+| 14:30 - 15:00    | [Hu Yue](/yue/)     |University of Waterloo| |
 | **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
-| 16:00 - 16:30    | [Johannes Englsberger](/johannes/)| Centroidal Angular Momentum Approximation and Control for humanoid locomotion| 
+| 16:00 - 16:30    | [Katja Mombaur](/mombaur/)| Karlsruhe Institute of Technology <br/> University of Waterloo|From humans to robots: improving whole-body stability and robustness in humanoid robots from an analysis of Karate experts| 
 | 16:30 - 17:00    | [Serena Ivaldi](/ivaldi/)| Inria| Anticipatory Control: Using Prediction of Intended Movement for Control  |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **17:00-17:30**  |           | **Summary & Panel discussion**          | 

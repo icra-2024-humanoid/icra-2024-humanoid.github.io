@@ -22,7 +22,7 @@ collection: speakers
 
 ##### Short Biography 
 
-[Patrick Wensing](https://sites.nd.edu/pwensing) is an Assistant Professor in the Department of Aerospace and Mechanical Engineering at the University of Notre Dame where he directs the Robotics, Optimization, and Assistive Mobility (ROAM) lab. He received his Ph.D. in Electrical and Computer Engineering from The Ohio State University in 2014 and completed Postdoctoral training at MIT in 2017. He currently serves as an Associate Editor for the IEEE Transactions on Robotics and as a Co-Chair for the IEEE Robotics and Automation Society Technical Committee on Model-Based Optimization in Robotics.
+[Patrick Wensing](https://sites.nd.edu/pwensing) is an Associate Professor in the Department of Aerospace and Mechanical Engineering at the University of Notre Dame where he directs the Robotics, Optimization, and Assistive Mobility (ROAM) lab. He received his Ph.D. in Electrical and Computer Engineering from The Ohio State University in 2014 and completed Postdoctoral training at MIT in 2017. He currently serves as an Associate Editor for the IEEE Transactions on Robotics and as a Co-Chair for the IEEE Robotics and Automation Society Technical Committee on Model-Based Optimization in Robotics.
 
 
 <center style="font-size:30px">
