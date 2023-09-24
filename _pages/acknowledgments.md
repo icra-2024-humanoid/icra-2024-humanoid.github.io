@@ -7,19 +7,16 @@ layout: single
 classes: wide
 ---
 
-####  Financial support: 
-We would like to thank the Financial support from the IEEE-RAS Technical Committee on:
-
-* Model-Based Optimization for Robotics
-
-for the posters submitted and presented at the workshop during ICRA 2024.
-
 #### Endorsement: 
+
 We would like to thank the endorsement from the IEEE-RAS Technical Committees on:
 
-* Whole-body Control 
-* Human Movement Understanding  
-* Mobile Manipulation 
+* Model-Based Optimization for Robotics
+* Mobile Manipulation
+* Cyborg and Bionic Systems
+* Whole-Body Control
+* Human Movement Understanding
+
 
 
 

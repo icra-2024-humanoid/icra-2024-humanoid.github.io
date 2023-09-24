@@ -25,11 +25,11 @@ permalink: /program/
 | **12:30-13:30**  |           | **Lunch**          |  |                                                         |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:30- 14:00    | [Maurice Fallon](/fallon/) | Oxford Robotics Institute | Sensor Fusion based Legged Robot Visual Perception, Navigation and State Estimation |
-| 14:00 - 14:30    | [Patrick Wensing](/wensing/)    |  University of Norte Dame|  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots |
+| 14:00 - 14:30    | [Patrick Wensing](/wensing/)    |  University of Norte Dame|  Informed MPC: Leveraging human data, robot experience, and high-order dynamics for optimal whole-body control |
 | 14:30 - 15:00    | [Hu Yue](/yue/)     |University of Waterloo| |
 | **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
 | 16:00 - 16:30    | [Katja Mombaur](/mombaur/)| Karlsruhe Institute of Technology <br/> University of Waterloo|From humans to robots: improving whole-body stability and robustness in humanoid robots from an analysis of Karate experts| 
-| 16:30 - 17:00    | [Serena Ivaldi](/ivaldi/)| Inria| Anticipatory Control: Using Prediction of Intended Movement for Control  |
+| 16:30 - 17:00    | [Dana Kulic](/kulic/)| Monash University| Online learning for gait modification  |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **17:00-17:30**  |           | **Summary & Panel discussion**          | 
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|

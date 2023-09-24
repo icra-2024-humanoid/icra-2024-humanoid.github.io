@@ -1,6 +1,6 @@
 ---
 title: "Patrick Wensing"
-excerpt: "It All Matters: Considerations Across Design and Control for Contact-Savvy Robots"
+excerpt: "Informed MPC: Leveraging human data, robot experience, and high-order dynamics for optimal whole-body control"
 layout: single 
 classes: wide
 permalink: /wensing/
@@ -26,7 +26,7 @@ collection: speakers
 
 
 <center style="font-size:30px">
-It All Matters: Considerations Across Design and Control for Contact-Savvy Robots
+Informed MPC: Leveraging human data, robot experience, and high-order dynamics for optimal whole-body control
 </center>
 
 ##### Abstract
