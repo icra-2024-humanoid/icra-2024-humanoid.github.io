@@ -16,6 +16,7 @@ We would like to thank the endorsement from the IEEE-RAS Technical Committees on
 * Cyborg and Bionic Systems
 * Whole-Body Control
 * Human Movement Understanding
+* Neuro-Robotics  Systems
 
 
 
