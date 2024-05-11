@@ -10,27 +10,30 @@ permalink: /program/
 | :-------------------------------------------------------------------------:|
 | **Time** | **Speaker**          | **Organization** |                   **Title**                                      |
 | :-------------------------------------------------------------------------:|
-|  |**Session One:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 09:00 - 09:30 | [Abderrahmane Kheddar](/kheddar/)  | CNRS-AIST JRL, CNRS-UM LIRMM|                                                               |
-| 09:30 - 10:00    | [Majid Khadiv](/khadiv/)| Technical University of Munich| Predictive control and learning for whole-body motion generation |
+| 09:00 - 09:30 | [Ko Ayusawa](/ayusawa/)| AIST|    Humanoid motion optimization for understanding and reproducing human movements
+| 09:30 - 10:00    | [Dana Kulic](/kulic/)| Monash University|  Anticipatory Control: Using Prediction of Intended Movement for Control |
+| 10:00 - 10:30    |[Maurice Fallon](/fallon/) | Oxford Robotics Institute | Sensor Fusion based Legged Robot Visual Perception, Navigation and State Estimation |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 |  **10:00 - 10:30** |  |**Coffee Break & Poster Session**|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
-| 10:30 - 11:00    |  [Yan Gu](/yan/) |   Purdue University| Modeling and Control of Humanoid Robot Locomotion in Non-inertial Environment                                                             |
-| 11:00 - 11:30    | [Ko Ayusawa](/ayusawa/)| AIST|    Humanoid motion optimization for understanding and reproducing human movements|
-| 11:30 - 12:00    |  [Wataru Takano](/takano/)|  Osaka University|  |
+| 11:00 - 11:30    | [Hu Yue](/yue/)     |University of Waterloo| Exploring Robot Walking: Insights from Human Motion|
+| 11:30 - 12:00    |  [Wataru Takano](/takano/)|  Osaka University|  Translation between human whole body motion and language for humanoid AI|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
-| **12:00-12:30**  |           | **Summary & Panel Discussion** |                                                         |
+| 12:00-12:30      | Yoshihiko Nakamura          | **Summary & Panel Discussion** |                                                         |
+| -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | **12:30-13:30**  |           | **Lunch**          |  |                                                         |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 13:30- 14:00    | [Maurice Fallon](/fallon/) | Oxford Robotics Institute | Sensor Fusion based Legged Robot Visual Perception, Navigation and State Estimation |
-| 14:00 - 14:30    | [Patrick Wensing](/wensing/)    |  University of Norte Dame|  Informed MPC: Leveraging human data, robot experience, and high-order dynamics for optimal whole-body control |
-| 14:30 - 15:00    | [Hu Yue](/yue/)     |University of Waterloo| |
+| 13:30- 14:00    | [Abderrahmane Kheddar](/kheddar/)  | CNRS-AIST JRL, CNRS-UM LIRMM| Direct Centroidal Control for Balanced Humanoid Locomotion |
+| 14:00 - 14:30    | [Majid Khadiv](/khadiv/)| Technical University of Munich| Optimal Control and Learning for Agile Locomotion |
+| 14:30 - 15:00    | [Katja Mombaur](/mombaur/)| Karlsruhe Institute of Technology <br/> University of Waterloo|From humans to robots: improving whole-body stability and robustness in humanoid robots from an analysis of Karate experts| 
+| 15:00 - 15:30    | [Maegan Tucker](/tucker/) | Georgia University of Technology| Whole-body control for human assistance| 
 | **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
-| 16:00 - 16:30    | [Katja Mombaur](/mombaur/)| Karlsruhe Institute of Technology <br/> University of Waterloo|From humans to robots: improving whole-body stability and robustness in humanoid robots from an analysis of Karate experts| 
-| 16:30 - 17:00    | [Dana Kulic](/kulic/)| Monash University| Online learning for gait modification  |
+| 16:00 - 16:30    |  [Xingxing Wang](/xingxing) | Unitree Robotics | Welcome the arrival of the era of robot intelligence | 
+| 16:30 - 17:00    | [Patrick Wensing](/wensing/)    |  University of Norte Dame|  Informed MPC: Leveraging human data, robot experience, and high-order dynamics for optimal whole-body control |
+| 17:00 - 17:30    | [Annan Tang](/annan/)| University of Tokyo| Whole-Body Dynamic Behaviors and Control of Humanoid Robots |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| **17:00-17:30**  |           | **Summary & Panel discussion**          | 
+| **17:30-18:00**  | Yuquan Wang / Yan Gu          | **Summary & Panel discussion**          | 
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
+
 

@@ -12,8 +12,8 @@ main:
  #  url: /organizers/
   - title: "Acknowledgments"
     url: /acknowledgments/
-    #  - title: "Program"
-    #url: /program/
+  - title: "Program"
+    url: /program/
   - title: "Call for Contributions"
     url: https://forms.gle/SjgCrnUQaPBS4Rh86
 

@@ -1,6 +1,6 @@
 ---
 title: "Annan Tang"
-excerpt: "HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation"
+excerpt: "Whole-Body Dynamic Behaviors and Control of Humanoid Robots"
 layout: single 
 classes: wide
 permalink: /annan/
@@ -25,7 +25,7 @@ collection: speakers
 
 
 <center style="font-size:30px">
-HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation
+Whole-Body Dynamic Behaviors and Control of Humanoid Robots
 </center>
 
 
