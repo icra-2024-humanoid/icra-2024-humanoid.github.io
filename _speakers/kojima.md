@@ -1,16 +1,16 @@
 ---
-title: "Annan Tang"
+title: "Kunio Kojima"
 excerpt: "Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning"
 layout: single 
 classes: wide
-permalink: /annan/
+permalink: /kojima/
 
 sidebar:
-  - title: "Ph.D candidate"
-    image: /docs/assets/images/speakers/annan.jpg
+  - title: "Lecturer"
+    image: /docs/assets/images/speakers/kojima.jpg
     image_alt: "logo"
     text: "
-    Department of Creative-Infomatics
+    [JSK Lab](http://www.jsk.t.u-tokyo.ac.jp/)
     <br/>
     The University of Tokyo"
 
@@ -19,11 +19,10 @@ collection: speakers
 ---
 
 ##### Biography: 
-Annan Tang: He is currently a Ph.D. student under the supervision of Prof. [Kei Okada](http://www.jsk.t.u-tokyo.ac.jp/~k-okada/index-e.html) and [Kunio Kojima](https://www.u-tokyo.ac.jp/focus/en/people/k0001_02089.html) at [JSK Lab](http://www.jsk.t.u-tokyo.ac.jp/), University of Tokyo. Prior to this, he completed his master's degree at the University of Tokyo and obtained his bachelor's degree from Tongji University, China. Additionally, He has one year of research experience as a student researcher at Tencent Robotics-X. 
 
-His research interests lie at the intersection of Robotics, Machine Learning, and Control Theory, with a particular focus on utilizing reinforcement learning to empower humanoid robots to autonomously acquire diverse whole-body motion skills.
+Kunio Kojima is a lecturer at JSK Lab, the Graduate School of Information Science and Technology, University of Tokyo, since 2021. He received the B.S. degree in mechanical engineering, the M.S degree in mechano-informatics, and Ph.D. degree in Interdisciplinary Information Studies from the University of Tokyo, Japan, in 2012, 2014, and 2018, respectively. Prior to his current position, he was a project research associate and a research associate.
 
-
+His research focuses on the mechanical design of humanoid robot structures and the planning and control of dynamic whole-body motions.
 
 
 <center style="font-size:30px">

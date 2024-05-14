@@ -13,7 +13,7 @@ sidebar:
     <h4>Assistant Professor</h4> 
     <br/>
     <br/> <br/>
-    Georgia University of Technology"
+    Georgia Institute of Technology
   
 toc: false 
 collection: speakers
