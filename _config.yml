@@ -22,7 +22,7 @@ title                    : "Humanoid Whole-body Control"
 title_separator          : ""
 subtitle                 : From human motion understanding to humanoid locomotion
 name                     : #"High Dynamic Motion Generation of Under-Actuated Robots"
-description              : "Workshop@ICRA2024"
+description              : "Workshop@ICRA-2024"
 url                      : https://icra-2024-humanoid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : icra-2024-humanoid/icra-2024-humanoid.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "May 17th, 2024"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "09:00-18:00 @Room 418"
+  bio              : "08:30-17:00 @Room 418"
   location         : "Yokohama, Japan"
   email            : icra.2024.humanoid@gmail.com
   links:
