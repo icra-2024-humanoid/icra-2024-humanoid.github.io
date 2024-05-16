@@ -26,7 +26,7 @@ I am a Specially Appointed Professor at a Center for Mathematical Modeling and D
 
 
 <center style="font-size:30px">
-TBD
+Translation between human whole body motion and language for humanoid AI
 </center>
 
 ##### Abstract

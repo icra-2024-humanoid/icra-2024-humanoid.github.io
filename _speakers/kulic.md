@@ -1,6 +1,6 @@
 ---
 title: "Dana Kulić"
-excerpt: "Online learning for gait modification"
+excerpt: "Anticipatory Control: Using Prediction of Intended Movement for Control"
 layout: single 
 classes: wide
 permalink: /kulic/
@@ -27,7 +27,7 @@ Prof. [Dana Kulić](https://www.monash.edu/engineering/danakulic) conducts resea
 
 
 <center style="font-size:30px">
-Online learning for gait modification
+Anticipatory Control: Using Prediction of Intended Movement for Control
 </center>
 
 ##### Abstract
