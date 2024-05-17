@@ -12,15 +12,13 @@ sidebar:
     text: "
     <h4>Assistant Professor</h4> 
     <br/>
-    <br/> <br/>
-    Georgia Institute of Technology
+    Georgia Institute of Technology"
   
 toc: false 
 collection: speakers
 ---
 
 ##### Short Biography 
-
 [Maegan Tucker](https://maegantucker.com/) is an Assistant Professor at the Georgia Institute of Technology, with a joint appointment in both the School of Electrical and Computer Engineering, as well as the George W. Woodruff School of Mechanical Engineering. She received her Ph.D. in Mechanical Engineering from the California Institute of Technology (Caltech) in May of 2023. Her research aims to develop and unify techniques from both nonlinear control theory and machine learning to systematically achieve dynamic yet comfortable robotic-assisted locomotion. Her awards and recognitions include the 2023 Centennial Prize for Best Thesis in Mechanical and Civil Engineering from Caltech, the 2022 Simoudis Discovery Prize from Caltech, and two "Best Paper" awards (Best Conference Paper and Best Paper in Human Robot Interaction) for the IEEE International Conference on Robotics and Automation (ICRA) in 2020. Aside from her research, Maegan is deeply passionate about furthering DEI efforts within the robotics community.
 
  
